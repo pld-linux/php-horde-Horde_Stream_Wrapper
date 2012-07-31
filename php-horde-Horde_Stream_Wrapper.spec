@@ -3,12 +3,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Stream wrappers
 Name:		php-horde-Horde_Stream_Wrapper
-Version:	1.0.0
+Version:	1.0.1
 Release:	1
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
-# Source0-md5:	d55ba423f3c38a056e7e7aa0d34076af
+# Source0-md5:	3c1505d2fac91f165cc844ffb65ed3c5
 URL:		https://github.com/horde/horde/tree/master/framework/Stream_Wrapper/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
