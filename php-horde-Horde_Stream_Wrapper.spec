@@ -1,6 +1,5 @@
 %define		status		stable
 %define		pearname	Horde_Stream_Wrapper
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Stream wrappers
 Name:		php-horde-Horde_Stream_Wrapper
 Version:	1.0.1
